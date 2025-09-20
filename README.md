@@ -1,5 +1,5 @@
 ## Hi there 👋 It's Sania Mehek
-I'm a passionate Data Science Engineer in the making, with a deep interest in solving real-world problems through data-driven insights and intelligent systems, and a lifelong learner. Inspired to innovate and create impactful solutions, with future ambitions to work and grow in my expertise.
+I'm a passionate Data Science Engineer, with a deep interest in solving real-world problems through data-driven insights and intelligent systems, and a lifelong learner. Inspired to innovate and create impactful solutions, with future ambitions to work and grow in my expertise.
 
 💡 I build with purpose.
 🧠 I think in algorithms.
