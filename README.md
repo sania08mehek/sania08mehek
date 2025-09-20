@@ -1,7 +1,11 @@
 ###
+<h2 align="center">Hey there 👋<br>It's Sania Mehek</h1>
+
+###
+
 <div align="center">
 
-  ![image](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExam1ocGhsZ200bGMxdmczNW4zMmtydTJtb21kenc0NjE3cGhkZ2t3YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pLkGipLmA6ztRLGcs5/giphy.gif)
+  ![image](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N6cjZtcGZhNWFuYmxqanczd29hOGVlbnBtN3FzdGNvZmc0ZWF0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/okFG5aJWqRGMYXoKTD/giphy.gif)
 
 
 ###
@@ -21,15 +25,24 @@
 
 ###
 
-<h2 align="center">Hey there 👋<br>It's Sania Mehek</h2>
+<h3 align="center">👩‍💻  About Me</h3>
 
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
+***`Data Science Enthusiast`***
 ###
 
 <p align="left">I'm a passionate Data Science Student, with a deep interest in solving real-world problems through data-driven insights and intelligent systems, and a lifelong learner. Inspired to innovate and create impactful solutions, with future ambitions to work and grow in my expertise.<br><br>💡 I build with purpose. 🧠 I think in algorithms. 📊 Data is my canvas...I draw insights, not just graphs.<br><br>Currently crafting intelligent solutions, automating boring stuff, and contributing to projects that make life easier and tech smarter.<br><br>“Code like poetry — expressive, efficient, and meaningful.”<br><br>Let’s connect, collaborate, and code something awesome. ✨</p>
+
+---
+<h5 align="left">
+  
+- 🔭 I’m currently working on building ***`Insider Navs`*** and research on ***`Data mining in Cyber Forensics`***
+- 🌱 I’m currently learning Advanced Data Science
+- 👯 I’m looking to collaborate on Real world Projects and develop solutions
+- 💬 Ask me anything about data
+- ⚡ Fun fact: Curiousity and creativity at it's peak
+
+---
+
 
 ###
 
@@ -37,26 +50,27 @@
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="60" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="60" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="60" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height="60" alt="mongodb logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" height="40" alt="neo4j logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original-wordmark.svg" height="60" alt="neo4j logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="60" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-plain.svg" height="60" alt="rstudio logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60" alt="pandas logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60" alt="numpy logo"  />
 </div>
 
 ###
@@ -69,6 +83,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=sania08mehek&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=sania08mehek&theme=gruvbox_light&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sania08mehek&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=sania08mehek&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
