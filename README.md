@@ -7,9 +7,16 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="37" height="25" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="gmail logo"  />
+<a href="https://www.linkedin.com/in/sania-mehek1508/" target="blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"  />
+</a>
+<a href="https://www.instagram.com/_.sanu.meee._008/" target="blank">
+  <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"  />
+</a>
+<a href="https://mail.google.com/mail/u/0/#inbox" target="blank">
+  <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"  />
+</a>
+  
 </div>
 
 ###
