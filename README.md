@@ -13,7 +13,7 @@
 <a href="https://www.instagram.com/_.sanu.meee._008/" target="blank">
   <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"  />
 </a>
-<a href="https://www.gmail.com/sania08mehek@gmail.com/" target="blank">
+<a href="https://www.gmail.com/sania08mehek/" target="blank">
   <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"  />
 </a>
   
